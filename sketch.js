@@ -80,7 +80,7 @@ function draw() {
       diamondsG.destroyEach()
       jwelleryG.destroyEach()
       cashG.setVelocityYEach(0)
-      diamond.setVelocityYEach(0)
+      diamondsG.setVelocityYEach(0)
       jwelleryG.setVelocityYEach(0)
     }
   }
